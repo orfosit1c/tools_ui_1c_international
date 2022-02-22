@@ -158,7 +158,7 @@
   <dataProcessors>DataProcessor.УИ_ВыгрузкаЗагрузкаДанныхXMLСФильтрами</dataProcessors>
   <dataProcessors>DataProcessor.УИ_ВыполнениеРегламентныхЗаданийНаКлиенте</dataProcessors>
   <dataProcessors>DataProcessor.УИ_ГрупповаяОбработкаСправочниковИДокументов</dataProcessors>
-  <dataProcessors>DataProcessor.УИ_ДанныеДляОтладки</dataProcessors>
+  <dataProcessors>DataProcessor.UT_DebugData</dataProcessors>
   <dataProcessors>DataProcessor.УИ_ЗагрузкаДанныхИзТабличногоДокумента</dataProcessors>
   <dataProcessors>DataProcessor.УИ_ИнформацияОЛицензиях1С</dataProcessors>
   <dataProcessors>DataProcessor.УИ_КонсольВебСервисов</dataProcessors>
